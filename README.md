@@ -1,2 +1,2 @@
-# Open sport system
-Open source workout routine management and workout generator software
+# Open sport system rest api application
+Open source workout routine management and workout generator software rest api application
